@@ -6,3 +6,6 @@ https://myxxdev.github.io/installation/MYbloXX14 (без использован�
 
 
 https://myxxdev.github.io/installation/MYbloXXnoXXX
+
+
+https://github.com/MYXXdev/myxxdev.github.io/tree/master/MYbloXX
